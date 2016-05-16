@@ -1,0 +1,19 @@
+{
+	"name": "zz.net",
+	"version": "20160516.0.0",
+	"description": "IDL network base module.",
+	"author": {
+		"name": "Artem Lytvynov",
+		"email": "buntarb@gmail.com"
+	},
+	"license": "Apache-2.0",
+    "homepage": "http://imazzine.com/idl/zz.net/",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/buntarb/zz.net.git"
+	},
+	"dependencies": {
+
+	    "imazzine-developer-kit": ""
+	}
+}
