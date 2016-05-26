@@ -1,6 +1,6 @@
 {
 	"name": "zz.net",
-	"version": "20160516.0.0",
+	"version": "20160526.0.0",
 	"description": "IDL network base module.",
 	"author": {
 		"name": "Artem Lytvynov",
@@ -15,6 +15,7 @@
 	"dependencies": {
 
 	    "imazzine-developer-kit": "",
-		"zz.environment": ""
+		"zz.environment": "",
+		"zz.models": ""
 	}
 }
