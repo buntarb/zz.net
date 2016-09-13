@@ -1,11 +1,16 @@
 {
 	"name": "zz.net",
-	"version": "20160913.0.0",
+	"version": "20160914.0.0",
 	"description": "IDL network base module.",
 	"author": {
 		"name": "Artem Lytvynov",
 		"email": "buntarb@gmail.com"
 	},
+	"contributors": [
+		"Artem Lytvynov <buntarb@gmail.com>",
+		"Alexander Popkov <popkov.aleksander@gmail.com>",
+		"Igor Zinchenko <zinychz@gmail.com>"
+	],
 	"license": "Apache-2.0",
     "homepage": "http://imazzine.com/idl/zz.net/",
 	"repository": {
